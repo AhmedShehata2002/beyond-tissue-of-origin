@@ -1,0 +1,20 @@
+# Raw data is large and licensed by its providers - download it yourself (see README)
+data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Personal practice workbook (contains a copy of licensed data)
+practice/
+
+# Working copies, not part of the project
+Claude outputs/

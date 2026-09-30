@@ -1,0 +1,11 @@
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+scipy==1.17.1
+lightgbm==4.7.0
+shap==0.51.0
+matplotlib==3.10.9
+seaborn==0.13.2
+openpyxl==3.1.5
+jinja2==3.1.6      # table styling in the notebook
+jupyterlab
